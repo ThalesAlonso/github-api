@@ -6,7 +6,7 @@ Photograph,
 repositories,
 stars.
 The following technologies were used:
-## React, webpack,  babel
+**React**, **webpack**,  **babel**
 This project is parameterized on port 3000 server.
 It is still in the process of improvement, so any suggestions for improvement are welcome.rs.
 
