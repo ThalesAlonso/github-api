@@ -24,8 +24,6 @@ npm install
 or 
 ``` node
 yarn install 
-
-```babel
 ```
 
 
